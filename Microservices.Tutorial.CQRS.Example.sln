@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Tutorial.CQRS.Example", "Microservices.Tutorial.CQRS.Example\Microservices.Tutorial.CQRS.Example.csproj", "{A19ABE89-8CB7-4B89-BED1-3BB15309BEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19ABE89-8CB7-4B89-BED1-3BB15309BEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19ABE89-8CB7-4B89-BED1-3BB15309BEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19ABE89-8CB7-4B89-BED1-3BB15309BEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19ABE89-8CB7-4B89-BED1-3BB15309BEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C97B45-8950-4CB3-BC22-18E8EBC0ED1D}
+	EndGlobalSection
+EndGlobal

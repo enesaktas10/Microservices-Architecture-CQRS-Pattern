@@ -1,0 +1,6 @@
+@Microservices.Tutorial.CQRS.Example_HostAddress = http://localhost:5210
+
+GET {{Microservices.Tutorial.CQRS.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
