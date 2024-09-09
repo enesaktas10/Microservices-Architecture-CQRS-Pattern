@@ -31,3 +31,5 @@ C:\Users\enes\Desktop\Microservices CQRS\Microservices.Tutorial.CQRS.Example\Mic
 C:\Users\enes\Desktop\Microservices CQRS\Microservices.Tutorial.CQRS.Example\Microservices.Tutorial.CQRS.Example\obj\Debug\net8.0\Microservices.Tutorial.CQRS.Example.pdb
 C:\Users\enes\Desktop\Microservices CQRS\Microservices.Tutorial.CQRS.Example\Microservices.Tutorial.CQRS.Example\obj\Debug\net8.0\Microservices.Tutorial.CQRS.Example.genruntimeconfig.cache
 C:\Users\enes\Desktop\Microservices CQRS\Microservices.Tutorial.CQRS.Example\Microservices.Tutorial.CQRS.Example\obj\Debug\net8.0\ref\Microservices.Tutorial.CQRS.Example.dll
+C:\Users\enes\Desktop\Microservices CQRS\Microservices.Tutorial.CQRS.Example\Microservices.Tutorial.CQRS.Example\bin\Debug\net8.0\MediatR.dll
+C:\Users\enes\Desktop\Microservices CQRS\Microservices.Tutorial.CQRS.Example\Microservices.Tutorial.CQRS.Example\bin\Debug\net8.0\MediatR.Contracts.dll
